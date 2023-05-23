@@ -1,0 +1,17 @@
+{
+  "name": "cypress.main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^17.1.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0"
+  }
+}
